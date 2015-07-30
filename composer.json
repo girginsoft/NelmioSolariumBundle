@@ -16,7 +16,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "~2.1",
-        "girginsoft/solarium": "~3.3"
+        "girginsoft/solarium": "dev-master"
     },
     "autoload": {
         "psr-4": { "Nelmio\\SolariumBundle\\": "" }
