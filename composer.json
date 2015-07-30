@@ -21,6 +21,12 @@
     "autoload": {
         "psr-4": { "Nelmio\\SolariumBundle\\": "" }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:girginsoft/solarium.git"
+        }
+    ],
     "extra": {
         "branch-alias": {
             "dev-master": "2.2-dev"
